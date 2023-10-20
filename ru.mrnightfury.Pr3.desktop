@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.mrnightfury.Pr3
+Exec=/usr/bin/ru.mrnightfury.Pr3
+Name=Pr3
+Name[ru]=Пр3
+
+[X-Application]
+Permissions=
+OrganizationName=ru.mrnightfury
+ApplicationName=Pr3
+ExecDBus=/usr/bin/ru.mrnightfury.Pr3
